@@ -1,4 +1,4 @@
-# APIWIN
+# APIWIN vrs.1 
 Library Apiwin.h vrs.1 
 16/08/2018
 
@@ -12,7 +12,7 @@ Author : Erick Steven Yenque Medina
 
 
 
-# APIWIN
+# APIWIN vrs.2
 Library Apiwin.hpp vrs.1 
 20/08/2018
 
